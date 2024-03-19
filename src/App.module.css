@@ -1,0 +1,27 @@
+.calculator{
+  border: 0.0625rem solid rgba(0, 0, 0, 0.516);
+  width: 12.5rem;
+ border-radius: 0.0625rem;
+}
+.display{
+  width: 10.9375rem;
+  margin: 0.625rem;
+  font-size: 2.0rem;
+}
+.buttonsConatainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button{
+  width: 2.8125rem;
+  height: 2.8125rem;
+  margin: 0.1875rem;
+}
+.heading{
+  background-color: rgb(253, 253, 253);
+  font-size: 25px;
+  text-align: center;
+  color: rgb(162, 137, 105);
+  margin: 0px 10px;
+}
